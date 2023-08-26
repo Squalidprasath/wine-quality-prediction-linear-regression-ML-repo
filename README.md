@@ -37,7 +37,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/sherinjim
+git clone (https://github.com/Squalidprasath/wine-quality-prediction-linear-regression-ML-repo.git)
 
 2. Navigate to the project directory:
 cd your-repo
